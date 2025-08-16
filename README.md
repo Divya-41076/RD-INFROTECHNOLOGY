@@ -1,7 +1,38 @@
-# TO - DO - LIST
-We have used PYTHON and TKINTER in this application.
+# Tkinter Applications Suite  
 
-OPERATIONS:
-Create new list, Save list, Open List, Clear lists, Add items and Delete items.
+This repository contains three desktop applications built with **Python Tkinter**, demonstrating GUI design and event-driven programming.  
 
-Its a simple GUI application using TKinter. We can save our lists and track them down efficiently.
+## 📂 Projects  
+1. **Contact Book** – Add, update, delete, and view contacts.  
+2. **Calculator** – Perform arithmetic operations with a simple interface.  
+3. **To-Do List** – Manage daily tasks with save and load options.  
+
+---
+
+## 🚀 Getting Started  
+### Requirements  
+- Python **3.7+**  
+- Tkinter (pre-installed with Python)  
+
+### Run Applications  
+```bash
+python contact_book.py
+python Calculator.py
+python to-do-list.py
+```  
+
+---
+
+## 📌 Features  
+- **Contact Book** → CRUD operations, table view, input validation.  
+- **Calculator** → `+ - * / % **`, clear/delete, error handling.  
+- **To-Do List** → Add, cross-off, delete, save/load task lists.  
+
+---
+
+## 📖 Learning Outcomes  
+- Tkinter widgets (`Button`, `Entry`, `Listbox`, `Treeview`, `Menu`).  
+- Event handling & command binding.  
+- File persistence using `pickle`.  
+
+---
